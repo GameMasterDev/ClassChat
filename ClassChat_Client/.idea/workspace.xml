@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ClassChat_Client:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="689b24d7-d779-4acb-8da3-11a41a269b19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ClassChat_Client_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassChat_Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jna-jpms-5.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClassChat_Client/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClassChat_Client/app/classchat/client/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClassChat_Client/app/classchat/client/client/ChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClassChat_Client/app/classchat/client/gui/GUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClassChat_Client/app/classchat/client/gui/GUI$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClassChat_Client/app/classchat/client/gui/GUI$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ClassChat_Client/app/classchat/client/gui/GUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/classchat/client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/classchat/client/client/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/classchat/client/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/classchat/client/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/classchat/client/logger/LoggerUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/.idea/artifacts/ClassChat_Server_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/.idea/libraries/java_discord_rpc_2_0_1_all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/ClassChat_Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/libs/java-discord-rpc-2.0.1-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/output/ClassChat_Client.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/output/ClassChat_Server.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/output/Client.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/output/Start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/resources/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/app/classchat/server/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/app/classchat/server/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/app/classchat/server/server/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/app/classchat/server/utils/DiscordUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/app/classchat/server/utils/Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/app/classchat/server/utils/logger/LogColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/app/classchat/server/utils/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassChat_Server/src/app/classchat/server/utils/logger/LoggerUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscordBotMaker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/img/exitOriginal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/img/launchOriginal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/img/logo150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/img/logo200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/gamemaster/discordbotmaker/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/gamemaster/discordbotmaker/gui/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/gamemaster/discordbotmaker/utils/Logger.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XLZ7IKWCSarcf0JcY1G5MDXhzQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/dodor/OneDrive/Documents/JavaProjects/ClassChat_Client/libs/jna-jpms-5.13.0.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ClassChat Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="app.classchat.client.Main" />
+      <module name="ClassChat_Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="689b24d7-d779-4acb-8da3-11a41a269b19" name="Changes" comment="" />
+      <created>1698410153322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698410153322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
